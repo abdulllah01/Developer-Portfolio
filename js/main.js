@@ -61,7 +61,7 @@
       strings: typed_strings.split(", "),
       typeSpeed: 100,
       backSpeed: 20,
-      
+    });
   }
 
   // Modal Video
